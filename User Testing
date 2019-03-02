@@ -1,0 +1,108 @@
+Rubaiat Tazim, PID: A12739293
+Thao Nguyen, PID: A13124194
+Dana Chung, PID: A13581929
+
+User Study Notes:
+
+User Test #1
+Participant Background
+Student, 4th year, has access to kitchen.
+
+Do you use any apps or online resources to help you cook or find recipes?
+Yes, uses cookpad, allrecipes.com, and tasty. Uses phone to look up recipes. Once or two a month. 
+
+User Interaction
+User logs into the the Munch application using the given login information
+Asks question about if he needs to press the login button?
+User successfully logs in and the home page loads.
+
+What does each button in the navigation footer mean?
+Home: Home
+Plus : Adding to your recipes
+Favorites: Recipe’s you liked or saved
+Person: Profile information
+
+Take time to freely explore the application
+Looking through the homepage 
+Looked at recipes and scrolling through the recipes
+Navigates to each recipe and goes back
+User noticed that the profile page’s buttons is weird on ios.
+Looking through the ingredients page 
+Navbar is wrong for the ingredients page 
+Deleting recipes is not intuitive
+Doesn’t know how to add ingredients/doesn’t know what button the press
+Task: Try to add ingredients to the app and find recipes and their nutrition 
+Doesn’t know how to use ingredients or add ingredients 
+Added potato after asking how to input ingredients 
+How do I search through the recipes
+scrolls through the entire recipes looking for the search bar
+Can’t find nutrition button
+Didn’t see the nutrition button
+
+User Test #2
+Participant Background
+Student, 2nd year, has access to kitchen
+
+Do you use any apps or online resources to help you cook or find recipes?
+Yes, uses new york time cooking app and the chrome browser on the phone.
+
+User Interaction
+Username logs into Much using the login information with ease
+
+What does each button in the navigation footer mean?
+Home: home, recipes has favorites and filters
+Plus: Adding Ingredients
+Favorites: favorites
+Profile: profile
+
+Take time to freely explore the application
+Navigating the home page
+Likes how you can preview the photos of the recipes
+Suggests color coding cooking time based on duration
+Navigating the profile page
+Profile page is weird on the ios
+Testing on how to favorite
+Didn’t favorite the first time
+Having the ability to see what you already favorite
+Task: Try to add ingredients to the app and find recipes and their nutrition 
+Wasn’t sure what  to click on to add an ingredient
+Accidently deleted other ingredients 
+Looked at the recipes 
+Looked at the recipe that he thought looked good
+Checked how much protein there is 
+
+Photo Documentation: *cannot provide publicaly for privacy reasons*
+Caption: User #1 navigating through the ingredients page and adding a new ingredient to his list. He adds potato, but wasn’t sure which buttons to press to input the ingredient.
+Caption: User #2 navigating through the recipes page and finding a recipe that he likes and the cooking instructions, ingredients, and nutritional facts that go along with it. He looks at the recipe, BBQ Short Ribs and checks the protein.
+
+Planned Changes Based on Test:
+
+Recipes (home) page
+Issue when favoriting by clicking the red heart button
+When navigating to another page and back the red heart does not stay filled it
+Fix issue by making sure red favorites heart stays filled in even when user goes to another page and returns.
+Ingredients page
+Make it more intuitive what the user has to do to input a new ingredient 
+Ex: user did not know that he had to press enter on his keyboard to add ingredient
+Also make more intuitive how to delete ingredients off list 
+Ex: user did not know he had to double click on ingredient to delete it
+fix navigation bar at bottom (not formatted correctly)
+Profile page
+Fix layout of the buttons (change password, push notifications, help, logout) to work with ios (works fine on laptop, though)
+
+Meaningful Design (URL of new and old design):
+
+Old Design: https://thaotea.github.io/lab2/ingredients.html
+
+New Design: https://thaotea.github.io/lab2/ingredTest.html
+
+Description of Comparative Evaluation:
+
+For our redesign, we decided to focus on the ingredients page. The original page is titled “My Ingredients” and has a feature to add an ingredient (“Add New”), with that ingredient popping up under to form a list of all ingredients. The redesign is titled “Add Ingredients” with 3 text boxes to fill out (“Ingredient”, “Expiration Date (mm/dd/yyyy)”, “Description”) and an “Add” button at the bottom to click once the user is finished filling in the boxes. The ingredients and their corresponding information show up below under “My Ingredients”. 
+
+For the comparative evaluation we will have users test both versions, assigning the order of testing at random and not telling them which is the original. We will observe the user and take notes on how the user interacts with the pages. We will be measuring qualitative data by taking note of the user’s actions, errors and comments as s/he goes through both pages. We will also ask the user on his or her overall thoughts on each page. 
+
+We think that users will tend to prefer the redesign page over the original. We think that users will think that our redesign is more intuitive and organized than our original. Users may have trouble discovering the delete option on our original design. Additionally, users may appreciate the option to add an expiration date and a description to an ingredient in our redesign. We also think users will prefer a separate section to add ingredients and to view all inputted ingredients. They may think the original version is too simple or has the potential to appear cluttered easily. 
+
+With our final design in mind, we think generally users will like the redesign. However, they may think that a more organized list of all ingredients would be helpful; for example, sorting each ingredient by category (e.g.: produce, dairy, protein, etc). They may also want a more intuitive way to delete or edit ingredients. 
+

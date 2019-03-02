@@ -1,0 +1,30 @@
+Rubaiat Tazim, PID: A12739293
+Thao Nguyen, PID: A13124194
+Dana Chung, PID: A13581929
+
+Comparative Evaluation Analysis:
+After testing out both our original design and our redesign, we found that there are still some aspects of our Ingredients page that could be improved upon.  On the original page, the delete method for each ingredient was confusing because they would have to highlight by clicking on the ingredient, and then click again to delete, which is not very intuitive. Moreover, because recognition is preferred over recall, we decided it would be helpful to have automatic fill when typing in an ingredient so that users could see the option pop up before they finish typing, saving time and making the process more efficient. Also, having autocorrect fix the user’s spelling while they type in an ingredient would be more efficient so they don’t have to go back and fix their spelling, which would lower frustration amongst users. 
+In terms of aesthetics, users preferred the redesign over the original page. However, one user rated the redesign a 2, so we could make the page even more visually pleasing by adding more color to the list of ingredients. Currently the list just uses different shades of gray to differentiate between the ingredient name, description, and expiration date. Adding a pop of color, while still retaining a simplistic and sleek layout, would give the page more character and add more uniqueness. One user suggested that having an undo button would be helpful in case they accidentally deleted an ingredient off their list and did not want to waste time adding it back. Adding an edit feature was another suggestion we received during user testing; having the ability to change the name or expiration date of an ingredient would be useful, and would help users quickly fix any mistakes they may have made. 
+We asked each user to rate the original and redesign’s pages intuitiveness and aesthetics on a scale of 1 to 3, with 1 being least and 3 being the most. On average, the original design received a rating of 2.11 for intuitiveness and a 1.72 for aesthetics. The redesign earned a 3 for intuitiveness and a 2.56 for aesthetics. We also asked each user about which page they preferred, and 100% preferred the redesign. From these results, we have decided that our redesign was received more positively than our original, but we can still improve our redesign’s aesthetics. Overall, from our findings we have compiled a list of revisions (below), and hope to implement them. Our redesign tended to be favored, but still had some features, such as an edit button and an autocorrect function, that could make it better. 
+List of Revisions:
+*Have option not to input expiration date because some users may not have/know it for certain foods.
+*Have an edit button to make changes to food name or date, in case user made a mistake earlier.
+*For original page, the adding method was confusing because they would have to press Go on the keyboard, so instead implement an actual add button.
+*For original page, have a more concrete delete button.
+*Add more content/color or redesign layout to fill page and make it not as plain.
+*Add autocorrect or automatic fill when typing in ingredient.
+*Add an undo button in case user accidentally deletes an ingredient.
+
+App Name: 
+“Munch”
+
+Final App URL: 
+https://thaotea.github.io/munch/login.html
+
+Login:
+Username: janedoe@ucsd.edu
+Password: test1
+
+Video URL:
+https://drive.google.com/file/d/1gTEPXKpVOm50lK6CaWJdJA2g8uJC1BRZ/view?usp=sharing
+

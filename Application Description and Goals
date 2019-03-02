@@ -1,0 +1,22 @@
+Throughout the past few weeks, we have kept in mind our core goal of creating an app that helps college students (or anyone short on time) find recipes easily based on ingredients they own. Our app aims to improve cooking for these individuals by shortening the process of finding a recipe that works with the food and dietary restrictions they have. As college students ourselves and from our initial interviews, we have a good understanding of how tedious and time-consuming cooking can take, so we wanted to eliminate part of the stress and time that goes into this process. We also found that many people have food that expires before they can eat it, so we wanted to tackle this issue within our app as well. Our latest version of our app incorporates our original idea and features that we found were necessary to achieve our goal, as we eliminated certain ideas we initially had but eventually decided were not needed to address our POV. 
+
+Project Source Code URL:
+
+https://github.com/thaotea/lab2
+
+Prototype URL:
+
+https://thaotea.github.io/lab2/login.html
+
+Description of Unique Interactions:
+
+Munch is a unique app that allows its users to find recipes based on the ingredients they already have! One feature that separates Munch from other apps is the ability for users to input their ingredients and to keep track of how long the ingredient will last until it expires. Another feature is the ability for Munch to provide users with recipes to cook based on the ingredients they already inputted. Munch also lets the user set any dietary restrictions and diets they are on so they can discover recipes that cater to their preferences.
+
+
+
+Task Description:
+Craving some pasta you check your Munch app for a recipe and then you save it to your favorites for later use. After adding it to your favorites, you check how much time you need to cook, what ingredients you need, and how much caloric intake is in one serving. 
+
+
+
+
